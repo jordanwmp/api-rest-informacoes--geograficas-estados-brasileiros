@@ -1,5 +1,5 @@
 
-# API de Estados Brasileiros 🇧🇷
+# API de Estados Brasileiros
 
 Esta é uma API REST construída com **Node.js**, **Express** e **TypeScript**, que fornece informações geográficas detalhadas sobre os estados do Brasil.
 
